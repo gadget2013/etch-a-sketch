@@ -1,1 +1,1 @@
-A JavaScript web application that titled "etch-a-sketch."
+A JavaScript web application titled "etch-a-sketch."
